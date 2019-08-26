@@ -4,7 +4,7 @@ Html5 Canvas Javascript Asteroids (emulating Atari 1979 arcade)
 
 Hosted online at: http://jamesthompson.tech/AsteroidsJavascript/
 
-Scripted 24th - 26th August 2019.  There are a number of tutorials for similar cersions of asteroids in javascript online, but I did not reference them, so this should be very different.  My first attempt at html5 canvas manipulation and javascript codingbeyond drawing squares and circles. 
+Scripted 24th - 26th August 2019.  There are a number of tutorials available for a number of versions of asteroids written in javascript, but I did not reference them, so this should be very different.  My first attempt at html5 canvas manipulation and javascript coding beyond drawing squares and circles. 
 
 Gameplay and scoring tries to emlate 1979, as per description http://www.classicgaming.cc/classics/asteroids/play-guide
 
